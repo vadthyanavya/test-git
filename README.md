@@ -25,6 +25,6 @@
 
 -icon2
 
-   -icon3
+        -icon3
    
 -icon4
